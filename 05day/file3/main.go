@@ -22,6 +22,7 @@ func main() {
 				fmt.Println(line)
 			}
 			fmt.Println("文件读完了")
+			fmt.Println("文件读完了")
 			break
 		}
 		if err != nil {
